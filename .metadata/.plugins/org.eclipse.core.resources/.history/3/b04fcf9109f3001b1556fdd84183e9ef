@@ -1,0 +1,13 @@
+package serviceread.model;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class User {
+	
+	private long id;
+	private String fullname;
+	private String nickname;
+	private String contact;
+	private String email;
+}

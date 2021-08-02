@@ -1,0 +1,5 @@
+package serviceread.config;
+
+public class ResourceServerConfig {
+
+}

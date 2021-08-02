@@ -1,0 +1,5 @@
+package serviceread.model;
+
+public class User {
+
+}

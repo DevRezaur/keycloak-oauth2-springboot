@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/devrezaur/Documents/STS Workspace/keycloak-oauth2-java/.metadata/.plugins/org.eclipse.jdt.core
+900290569.index
