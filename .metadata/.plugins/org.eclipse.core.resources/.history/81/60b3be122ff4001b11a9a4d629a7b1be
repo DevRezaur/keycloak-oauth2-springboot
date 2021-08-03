@@ -27,7 +27,7 @@ public class ReadController {
 	}
 	
 	@GetMapping("/{id}")
-	@RolesAllowed("service-admin")
+	@RolesAllowed("app-admin")
 	private User getUser(@PathVariable long id) {
 		return users.stream()
 				.filter(user -> user.getId() == id)

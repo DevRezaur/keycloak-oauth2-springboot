@@ -21,13 +21,11 @@ public class ReadController {
 			new User(102, "Mr Adam", "Adam", "adam@gmail.com", "01839100546"));
 	
 	@GetMapping("/all")
-	@RolesAllowed("service-admin")
 	public List<User> getAllUsers() {
 		return users;
 	}
 	
 	@GetMapping("/{id}")
-	@RolesAllowed("service-admin")
 	private User getUser(@PathVariable long id) {
 		return users.stream()
 				.filter(user -> user.getId() == id)
