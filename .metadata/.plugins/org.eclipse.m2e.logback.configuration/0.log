@@ -631,3 +631,63 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-08-05 00:58:01,220 [Worker-9: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
 2021-08-05 10:11:05,655 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-08-05 11:59:00,802 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-05 13:12:50,779 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-05 18:38:42,926 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-05 18:40:18,602 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 18:40:18,603 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 18:40:18,605 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-05 18:40:18,614 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 18:40:18,616 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 18:40:18,616 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 18:40:18,616 [Worker-12: Launching service-read - ServiceReadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-06 19:20:40,936 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-07 13:44:28,201 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-07 13:45:15,840 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 13:45:15,840 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 13:45:15,842 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-07 13:45:15,851 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 13:45:15,853 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 13:45:15,853 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 13:45:15,853 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 13:56:32,993 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 13:56:32,994 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 13:56:32,996 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-07 13:56:33,009 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 13:56:33,013 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 13:56:33,013 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 13:56:33,013 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 14:59:16,579 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 14:59:16,579 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 14:59:16,580 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-07 14:59:16,597 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 14:59:16,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 14:59:16,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 14:59:16,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 15:00:30,660 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:00:30,660 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:00:30,660 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-07 15:00:30,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 15:00:30,679 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:00:30,680 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:00:30,680 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 15:01:00,365 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:01:00,366 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:01:00,366 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-07 15:01:00,378 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 15:01:00,380 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:01:00,380 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:01:00,381 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 15:01:44,733 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:01:44,733 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:01:44,734 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-07 15:01:44,754 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 15:01:44,756 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:01:44,756 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:01:44,757 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources
+2021-08-07 15:09:00,036 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:09:00,036 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:09:00,037 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-07 15:09:00,047 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-07 15:09:00,049 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-07 15:09:00,049 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-07 15:09:00,049 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devrezaur/Documents/STS Workspace/keycloak-oauth2-springboot/service-read/src/test/resources

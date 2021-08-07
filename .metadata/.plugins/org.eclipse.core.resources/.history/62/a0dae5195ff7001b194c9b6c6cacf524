@@ -6,5 +6,5 @@ keycloak:
   auth-server-url: http://localhost:8080/auth
   ssl-required: external
   resource: read-user-service
-  use-resource-role-mappings: true
+  use-resource-role-mappings: false
   bearer-only: true
