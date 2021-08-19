@@ -23,8 +23,8 @@ public class ResourceServerConfig extends KeycloakWebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         super.configure(http);
         http.authorizeRequests()
-			.antMatchers("/api/read/all").hasRole("realm-admin")
-			.antMatchers("/api/read/profile").hasRole("realm-user")
+			.antMatchers("/api/read/all").hasRole("realm-user")
+			.antMatchers("/api/read/*").hasRole("realm-admin")
             .anyRequest().authenticated();
         http.cors().and().csrf().disable();
     }

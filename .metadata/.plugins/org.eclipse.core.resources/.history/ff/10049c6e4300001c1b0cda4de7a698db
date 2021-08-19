@@ -31,8 +31,6 @@ public class ReadController {
 //				.orElse(null);
 		System.out.println(id.get("id"));
 		if(id.get("id").equals("c5597e5f-83a7-4fd9-831c-ea074026c9e7"))
-			return users.get(1);
-		else if(id.get("id").equals("2f3b6c05-540d-4018-b9ec-8b50e8274b81"))
 			return users.get(0);
 		else return null;
 	}
